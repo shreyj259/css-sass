@@ -8,7 +8,7 @@
 @import "base/typography";
 @import "base/utilities";
 
-
+@import "components/popup";
 @import "components/form";
 @import "components/bg-video";
 @import "components/card";
@@ -17,6 +17,7 @@
 @import "components/composition";
 @import "components/button";
 
+@import "layout/navigation";
 @import "layout/footer";
 @import "layout/header";
 @import "layout/grid";
